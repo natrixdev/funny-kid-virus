@@ -1,2 +1,6 @@
 # funny-kid-virus
-Entrainez vous avec ce virus. Si vous n'arrivez pas à l'enlever tappez dans un invite de commande pip child --remove
+Practice with this virus. If you can't remove it type in a command prompt pip child --remove
+
+![standard (9)](https://user-images.githubusercontent.com/88579983/182853240-d7b79a50-4d1d-4207-80a3-a5f2b596ffab.gif)
+
+By natrixdev
