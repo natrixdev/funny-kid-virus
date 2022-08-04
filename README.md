@@ -1,6 +1,8 @@
 # Funny Kid [TRAINING VIRUS]
 
 ## 🛑For education only 🛑
+
+[Downloads Page](https://github.com/natrixdev/funny-kid-virus/blob/main/downloads.md)
 <br>
 
 ![standard (10)](https://user-images.githubusercontent.com/88579983/182856504-b5bbcbfd-4df8-4304-8e78-7208f33bf295.gif)<br>
