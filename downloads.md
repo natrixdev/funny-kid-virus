@@ -1,6 +1,7 @@
-# Available on : | [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) | [MacOS](https://en.wikipedia.org/wiki/MacOS) | [Linux](https://en.wikipedia.org/wiki/Linux)
+# Available on : | [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows) | [MacOS](https://en.wikipedia.org/wiki/MacOS) | [Linux](https://en.wikipedia.org/wiki/Linux) |
 
 ## Donwloads: ⬇️
-      > Windows : [Windows Build Download](https://filetransfer.io/data-package/0L8Se4bV#link)
-      > MacOS : [Mac OS Build Download](https://filetransfer.io/data-package/0L8Se4bV#link)
-      > Linux : [Linux Build Download](https://filetransfer.io/data-package/0L8Se4bV#link)
+Choose the pack corresponding to your operating system
+      - Windows : [Windows Build Download](https://filetransfer.io/data-package/0L8Se4bV#link)
+      - MacOS : [Mac OS Build Download](https://filetransfer.io/data-package/0L8Se4bV#link)
+      - Linux : [Linux Build Download](https://filetransfer.io/data-package/0L8Se4bV#link)
